@@ -1,0 +1,14 @@
+.btnShop{
+    border: 1px solid cyan;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+}
+.btnShop:hover{
+    background: cyan;
+    color: #fff;
+    cursor: pointer;
+}
+.headerbtn{
+    display: flex;
+}
